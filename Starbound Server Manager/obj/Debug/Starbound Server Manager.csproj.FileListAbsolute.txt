@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\bin\Debug\Starbound Server Manager.exe.config
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound Server Manager.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound_Server_Manager.Form1.resources
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound_Server_Manager.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound Server Manager.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\bin\Debug\Starbound Server Manager.exe
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\bin\Debug\Starbound Server Manager.pdb
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound Server Manager.exe
+c:\users\david\documents\visual studio 2013\Projects\Starbound Server Manager\Starbound Server Manager\obj\Debug\Starbound Server Manager.pdb
