@@ -26,7 +26,7 @@ namespace Starbound_Server_Manager
         static string              TextFilePath = "";                                                                                                // Path to the logfile
         static Process             StarboundExe = Process.Start("starbound_server.exe");
         static int                 TimerTicks   = 0;
-        static OpenFolderDialog      Dialogue     = new OpenFileDialog();
+        static OpenFolderDialog      Dialogue     = new OpenFileDialog(); // test
         
         public Form1()
         {
