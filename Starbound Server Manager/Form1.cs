@@ -18,8 +18,7 @@ namespace Starbound_Server_Manager
 
 
         static int    Interval;                                                                                                                      // Used to set the delay between file checks
-        static string Data;                                                                                                                          // This is used to store the input from the user and will always get offloaded to another variable such as "Interval"
-        static string LineOfText;                                                                                                                    // This is used to store the data from the logs, line by line.
+        static string Data, LineOfText;                                                                                                              // This is used to store the input from the user and will always get offloaded to another variable such as "Interval"  || This is used to store the data from the logs, line by line.
 
         static bool                HasFailed    = false;                                                                                             // Makes set-up faster, don't wanna deal with newbs.
         static System.Timers.Timer DelayTimer   = new System.Timers.Timer();                                                                         // This is somewhat self explanitory. I use System.Timers.Timer here because "Timer" can refer to both System.Threading.Timer and System.Timers.Timer which is not great.
